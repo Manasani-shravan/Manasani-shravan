@@ -53,3 +53,6 @@ print(class10[1:])
 print(class10[3])
 print(class10[:6])
 print(class10[0:])
+indian_criket_teams = ["srh","rcb","mi","chanai","panjab","pune"]
+print(indian_criket_teams[:3])
+print(indian_criket_teams[:5])
