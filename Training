@@ -56,3 +56,47 @@ print(class10[0:])
 indian_criket_teams = ["srh","rcb","mi","chanai","panjab","pune"]
 print(indian_criket_teams[:3])
 print(indian_criket_teams[:5])
+print(class10[-7:-1])
+print(class10[:2])
+print(class10[7:])
+print(class10[ boy"
+print(a.replace('shravan','rakesh'))
+thelist = ["realme","mi","sumsung","oppo","apple","iphone"]
+print(thelist[3:])
+print(thelist[5:])
+a = "apple,red,green,shravan"
+print(a.split(","))
+print(a.strip())
+print(a.upper())
+print(a.capitalize())
+print(a.endswith('shravan'))
+print(class10[1:])
+print(class10[3])
+print(class10[:6])
+print(class10[0:])
+indian_criket_teams = ["srh","rcb","mi","chanai","panjab","pune"]
+print(indian_criket_teams[:3])
+print(indian_criket_teams[:5])
+a = "shravan is very good
+print(class10[-7:-1])
+print(class10[:2])
+print(class10[7:])
+print(class10[ boy"
+print(a.replace('shravan','rakesh'))
+thelist = ["realme","mi","sumsung","oppo","apple","iphone"]
+print(thelist[3:])
+print(thelist[5:])
+a = "apple,red,green,shravan"
+print(a.split(","))
+print(a.strip())
+print(a.upper())
+print(a.capitalize())
+print(a.endswith('shravan'))
+print(class10[1:])
+print(class10[3])
+print(class10[:6])
+print(class10[0:])
+indian_criket_teams = ["srh","rcb","mi","chanai","panjab","pune"]
+print(indian_criket_teams[:3])
+print(indian_criket_teams[:5])
+a = "shravan is very good
