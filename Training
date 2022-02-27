@@ -268,3 +268,36 @@ print(r(3,4,5,6,7)t("true")
 else:
     print("false")
 
+
+
+
+ #PYTHON BEGGINING IN YOUTUBE
+#PYTHON programing language
+bulding = ["flores","steps","pilars","rooms","loptops"]
+tea = ["chapatha","milk","dication"]
+mobiles = ["mi","realme","iphone","oppo","sumsung"]
+tea.extend(bulding)
+print(tea)
+tea [2] = "shravan"
+print(tea)
+my_name = "shravan"
+my_friend_name = "something"
+if my_friend_name=="something":
+    print("true")
+else :
+    print("flase")
+
+a = "this is shravan"
+b = "this is not shravan"
+if  "this" in a:
+    print("true")
+else :
+    print("flase")
+x = lambda a,b,c,v,h :a-b-c-v-h
+print(x(1,2,3,4,5))
+a = "this is s)hravan"
+b = "that is rakesh"
+if a < b :
+    print("true")
+else :
+    print("flase")
