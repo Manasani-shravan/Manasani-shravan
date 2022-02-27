@@ -295,7 +295,7 @@ else :
     print("flase")
 x = lambda a,b,c,v,h :a-b-c-v-h
 print(x(1,2,3,4,5))
-a = "this is s)hravan"
+a = "this is shravan"
 b = "that is rakesh"
 if a < b :
     print("true")
