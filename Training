@@ -100,7 +100,7 @@ indian_criket_teams = ["srh","rcb","mi","chanai","panjab","pune"]
 print(indian_criket_teams[:3])
 print(indian_criket_teams[:5])
 a = "shravan is very good
-= 58
+a = 58
 b = 7
 if a > b:
     print("rakesh ")
@@ -156,7 +156,7 @@ print(r(3,4,5,6,7)t("true")
 else:
     print("false")
 
-= 58
+a = 58
 b = 7
 if a > b:
     print("rakesh ")
